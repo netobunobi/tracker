@@ -1,8 +1,3 @@
-¡Claro que sí! Vamos a darle ese mismo nivel de profundidad al **Tracker**, destacando no solo la matemática que ocurre tras bambalinas, sino también su enorme peso en la industria actual.
-
-Para asegurarme de que las fórmulas matemáticas se visualicen perfectamente, te dejo el contenido del README formateado directamente en texto (puedes copiarlo todo y pegarlo en tu archivo `README.md` de GitHub).
-
----
 
 # 🤖 Tracker: Captura de Movimiento Matemática
 
@@ -69,7 +64,3 @@ Se aplica el teorema de Pitágoras generalizado para medir la distancia escalar 
 $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
 
 Si $d$ es menor que un umbral predefinido (tolerancia en píxeles), el sistema registra una colisión o interacción física, permitiendo detonar eventos en el código sin necesidad de contacto físico real.
-
----
-
-Con esta estructura, tu proyecto demuestra que no solo importaste una librería, sino que entiendes a la perfección la matemática de matrices y vectores que permite a la máquina "comprender" la pose humana. ¡Listo para impactar en GitHub!
